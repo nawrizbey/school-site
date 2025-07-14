@@ -9,7 +9,7 @@ const menuItems = [
   { title: 'Yangiliklar', href: '/yangiliklar' },
   { title: 'Ustozlar', href: '/ustozlar' },
   { title: 'Natijalar', href: '/natijalar' },
-  { title: 'Fikrlar', href: '/fikrlar' },
+  { title: 'Sertifikatlar', href: '/sertifikatlar' },
   { title: 'Bog\'lanish', href: '/boglanish' },
   { title: 'Maktab haqida', href: '/maktab-haqida' },
 ]
